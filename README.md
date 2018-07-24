@@ -1,3 +1,1 @@
-
-My first repo
-I'm lying on the pebble beach
+my first repo I'm lying on a pebble beach
